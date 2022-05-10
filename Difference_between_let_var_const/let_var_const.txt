@@ -1,0 +1,22 @@
+<----------------------- let Keyword ----------------------->
+
+1) let Keyword is a block scope variable.
+2) You can declared it without initialization.
+3) It can be updated but it cannot be re-declared into the scope.
+4) It cannot be access without initialization it return error.
+
+
+
+
+<----------------------- const Keyword ----------------------->
+
+1) const is a block scope variable.
+2) you cannot be updated and re-declared into the scope.
+3) It cannot be access without initialization and cannot be declared without initialization.
+
+<----------------------- var Keyword ----------------------->
+
+1) var is a functional scope variable.
+2) var can be updated and it can be re-declared into the scope.
+3) It can be access without initialization and its default value is undefind.
+4) It can be declared without initialization.
